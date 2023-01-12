@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BadrElGezeri
 - 👀 I’m interested in cyber securicty
-- 🌱 I’m currently learning Ethical hacking and cyber security
 - 📫 How to reach me: badrelgezeri@gmail.com
 
 <!---
